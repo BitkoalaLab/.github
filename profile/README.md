@@ -18,7 +18,7 @@
 
 ### 🚀 旗舰项目 (Featured Projects)
 
-#### 🖼️ [PicKoala](https://github.com/BitkoalaLab/PicKoala)
+#### 🖼️ [PicKoala](https://github.com/PicKoala)
 **PicKoala** 是实验室的核心项目，旨在打造一个简洁、安全且易于扩展的个人图床服务。它不仅是图片的集散地，更是我们对高效存储与优雅展示的视觉表达。
 
 ---
