@@ -21,6 +21,9 @@
 #### 🖼️ [PicKoala](https://github.com/PicKoala)
 **PicKoala** 是实验室的核心项目，旨在打造一个简洁、安全且易于扩展的个人图床服务。它不仅是图片的集散地，更是我们对高效存储与优雅展示的视觉表达。
 
+🐨 KoalAgent (考拉特工)(https://github.com/BitkoalaLab/KoalAgent)
+KoalAgent (考拉特工) 一个原生开源、具备长期记忆与自主心跳机制的个人专属 AI 智能体 (Agent)。KoalAgent is an open-source, proactive personal AI Agent with persistent memory, hatched by BitKoala Lab.
+
 ---
 
 ### ⚙️ 实验室技术栈 (Tech Stack)
